@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryanm\\source1\\repos\\memory-management\\memory-management.csproj",
+      "projectUniqueName": "C:\\Users\\ryanm\\source1\\memory-management\\memory-management\\memory-management.csproj",
       "projectName": "memory-management",
-      "projectPath": "C:\\Users\\ryanm\\source1\\repos\\memory-management\\memory-management.csproj",
+      "projectPath": "C:\\Users\\ryanm\\source1\\memory-management\\memory-management\\memory-management.csproj",
       "packagesPath": "C:\\Users\\ryanm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryanm\\source1\\repos\\memory-management\\obj\\",
+      "outputPath": "C:\\Users\\ryanm\\source1\\memory-management\\memory-management\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ryanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

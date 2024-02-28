@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ar1iQay4KOduR416apVPJyxqLr9nQlAlqfNSt8KbChluzRY6VikGl7RMGZ1vN25/saNIu3kfNAE2VKUCGZUQ9Q==",
+  "dgSpecHash": "d4gM0ImhSDaW6/xpYzfbuQjfPw4tu07DlhKRJ53h5y5RBr8qdM6VwPKprx7BI+UBuCmKUXJ3vrD+idPqmh65Lg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ryanm\\source1\\repos\\memory-management\\memory-management.csproj",
+  "projectFilePath": "C:\\Users\\ryanm\\source1\\memory-management\\memory-management\\memory-management.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

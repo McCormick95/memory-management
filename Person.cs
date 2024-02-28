@@ -6,6 +6,9 @@ public class Person{
         FName = fName;
         LName = lName;
     }
+    public override string ToString(){
+        return FName + " " + LName;
+    }
     public static string FormatPerson(Person p){
         string result;
         result = p.LName+ ", " + p.FName;
